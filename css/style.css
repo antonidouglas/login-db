@@ -1,5 +1,3 @@
-@charset "UTF-8";
-
 @font-face {
     font-family: fonteTeste;
     src: url(/fonts/Saiyan-Sans.ttf);
@@ -15,7 +13,7 @@
 body {
     height: 100vh;
     width: 100%;
-    background-image: url(/img/fundo-gohan.jpg);
+    background-image: url(../imagens/fundo-gohan.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
